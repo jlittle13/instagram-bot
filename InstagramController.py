@@ -73,4 +73,4 @@ class InstagramController:
 ic = InstagramController()
 while True:
     ic.follow()
-    sleep(600)
+    sleep(config["instagram"]["follow_interval"])

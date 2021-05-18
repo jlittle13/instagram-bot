@@ -8,6 +8,7 @@
   "instagram" : {
     "username" : "username",
     "password" : "password",
-    "user_list" : ["user1", "user2", "user3"]
+    "user_list" : ["user1", "user2", "user3"],
+    "follow_interval" : 600
   }
 }
