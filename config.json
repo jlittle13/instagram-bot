@@ -1,0 +1,13 @@
+{
+  "reddit" : {
+    "client_id": "client id",
+    "client_secret": "client secret",
+    "user_agent": "user agent",
+    "subreddit": "url-to-subreddit"
+  },
+  "instagram" : {
+    "username" : "username",
+    "password" : "password",
+    "user_list" : ["user1", "user2", "user3"]
+  }
+}
